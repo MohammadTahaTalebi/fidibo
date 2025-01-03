@@ -1,0 +1,91 @@
+
+/*   view 1   */
+.miniSlider{
+	overflow:hidden;
+	width:100%;
+}
+#gal1,#gal2,#gal3{
+	display:flex;
+	flex-flow:row nowrap;
+	gap:15px;
+	justify-content:space-around;
+	width:100%;
+}
+.items:hover > img{
+	filter:blur(2px);
+}
+.items:hover > .info{
+	top:110px;
+}
+.items{
+	width:150px;
+	//flex-grow:1;
+	background:#fff;
+	border-radius:5px;	
+	font-size:10px;
+	overflow:hidden;
+	position:relative;
+	box-shadow:0 0 3px 1px #eee;
+	height:260px;
+}
+.items > img{
+	transition:0.5s;
+	width:100%;
+}
+
+.items > .info{
+	transition:top 0.5s;
+	background:rgba(255,255,255,0.95);
+	position:absolute;
+	width:100%;
+	top:140px;	
+}
+.items > .info > h2{
+	white-space:nowrap;
+	font-weight:500;
+	margin:10px;
+}
+.items > .info > span{
+	display:block;
+}
+.items > .info > .writer{
+	margin-right:10px;
+}
+.items > .info > .star{
+	width:85px;
+	height:22px;
+	margin:10px auto;
+	background:url(../images/icons/star1.png) repeat-x;
+	background-size:17px;
+}
+.items > .info > .price{
+	//border-top:1px solid #ddd;
+	margin:10px;
+	padding:7px;
+	font-family:mitra;
+	font-size:15px;
+	font-weight:600;
+}
+.items > .info > .price > i{
+	color:red;
+	font-style:normal;
+	text-decoration:line-through;
+	font-size:13px;
+}
+.items > .info > p{
+	display:none;
+}
+.items > .offLable{
+	background:red;
+	width:35px;
+	padding:10px 0;
+	position:absolute;
+	border-radius:0 0 30px 1px;
+	top:0;
+	left:0%;
+	color:#fff;
+	font-family:mitra;
+	text-align:center;
+	font-size:15px;
+	font-weight:800;
+}

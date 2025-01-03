@@ -1,0 +1,5 @@
+var publishers = [{id:1,fname:"نشر افق",pic:"01.png",describe:"انتشارات افق در خدمت شما"},
+				{id:2,fname:"نشر چپق",pic:"02.png",describe:"نشری برای اهل چپق"},
+				{id:3,fname:"نشر چاخان",pic:"03.png",describe:"با سابقه 50 سال چاخان"},
+				{id:4,fname:"نشر فلان",pic:"04.png",describe:"انشارات فلان رای کودکتن و نوجوانان"},
+				{id:5,fname:"نشر نی",pic:"05.png",describe:"گروه انتشاراتی نی حالا نخری پس کی؟"}]

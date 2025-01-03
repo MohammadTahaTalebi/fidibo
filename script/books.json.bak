@@ -1,0 +1,15 @@
+
+
+var books = [{id:1,title:"مردی به نام اوه",writer:1,publisher:3,category:"رمان",price:250000,star:2.5,stock:0,off:20,audio:false,addDate:13980202,pic:["01.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,5,5,4,3,2,2,1],describe:"یک مردی بود به نام اوه"},
+			{id:2,title:"راز جفر",writer:2,publisher:4,category:"فلسفی",price:150000,star:3.5,stock:20,off:0,audio:true,addDate:13990202,pic:["02.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,4,4,4,4,4,3,3,2],describe:"جفر بمرده"},
+			{id:3,title:"ایکیگای",writer:3,publisher:3,category:"رمان",price:350000,star:5,stock:0,off:30,audio:true,addDate:13970202,pic:["03.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,4,4,3,3,3,3,3],describe:"احسنت خیلی خوبه"},
+			{id:4,title:"ما",writer:1,publisher:1,category:"رمان",price:500000,star:3,stock:20,off:0,audio:false,addDate:14000202,pic:["04.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,5,3],describe:"احسنت خیلی خوبه"},
+			{id:5,title:"خر فیلسوف",writer:4,publisher:2,category:"فلسفی",price:100000,star:2,stock:10,off:15,audio:false,addDate:13980502,pic:["05.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,5,5,,3],describe:"خر ملانصرالدین"},
+			{id:6,title:"چسه اماره ناتنی؟",writer:1,publisher:3,category:"هنری",price:750000,star:2.5,stock:0,off:25,audio:false,addDate:13990702,pic:["06.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,5,1],describe:"تک خورها"},
+			{id:7,title:"میراث",writer:2,publisher:1,category:"رمان",price:250000,star:2,stock:20,off:0,audio:true,addDate:13970202,pic:["07.jpg","01-1.jpg","01-2.jpg"],scores:[2,2,2,2,1],describe:"احسنت خیلی خوبه"},
+			{id:8,title:"برندگان",writer:3,publisher:5,category:"رمان",price:300000,star:4,stock:20,off:10,audio:false,addDate:13980202,pic:["08.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,1],describe:"احسنت"},
+			{id:9,title:"آس و  پاس های جوبار",writer:1,publisher:3,category:"هنری",price:200000,star:5,stock:0,off:50,audio:false,addDate:13980602,pic:["09.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,5,3,2,2,1],describe:"و تیرکلا و ماچک پشت"},
+			{id:10,title:"راز هاشم",writer:2,publisher:5,category:"رمان",price:270000,star:1,stock:20,off:0,audio:true,addDate:13980902,pic:["10.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,5,31],describe:"احسنت خیلی خوبه"},
+			{id:11,title:"فوتبال خر است",writer:4,publisher:2,category:"ورزشی",price:220000,star:2,stock:30,off:0,audio:false,addDate:13970502,pic:["11.jpg","01-1.jpg","01-2.jpg"],scores:[5,2,1],describe:"آقای فردوسی پور , شما دنبال چی هستی ؟"},
+			{id:12,title:"مملکته",writer:3,publisher:2,category:"سیاسی",price:250000,star:2.5,stock:20,off:0,audio:true,addDate:13920202,pic:["12.jpg","01-1.jpg","01-2.jpg"],scores:[5,5,2,1],describe:"همه جی آرومه و من چقد خوشبختم !"}]
+					

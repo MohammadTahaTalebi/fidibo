@@ -1,0 +1,5 @@
+var writers = [{id:1,fname:"جفر جفری",pic:"01.jpg",describe:"جفر جفری هستمه ، ته حال چتیه"},
+				{id:1,fname:"باقر",pic:"01.jpg",describe:"باقر نویسنده ماهر"},
+				{id:1,fname:"اصخر",pic:"01.jpg",describe:"اصخر فرزند جفر"},
+				{id:1,fname:"کمال",pic:"01.jpg",describe:"کمال مردی برای همه فصول"},
+				{id:1,fname:"جمال",pic:"01.jpg",describe:"جمالم رفیق کمال"}]
